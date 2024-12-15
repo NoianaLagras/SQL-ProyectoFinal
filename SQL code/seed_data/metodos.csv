@@ -1,0 +1,5 @@
+id_pay,method
+1,Efectivo
+2,Transferencia
+3,Tarjeta de Credito
+4,Tarjeta de Debito
